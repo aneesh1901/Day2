@@ -1,0 +1,14 @@
+﻿# Visual Studio
+.vs/
+
+# Build outputs
+bin/
+obj/
+
+# User-specific files
+*.user
+
+# SQLite local db
+*.db
+*.db-wal
+*.db-shm
