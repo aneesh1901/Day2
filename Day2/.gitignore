@@ -1,0 +1,10 @@
+# Build outputs
+bin/
+obj/
+
+# Database files
+*.db
+*.db-wal
+*.db-shm
+
+app.db
